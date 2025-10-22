@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std; 
+// https://codeforces.com/problemset/problem/1485/A
 
 long long Add_and_Divide(long long a , long long b){
     long long ans = 1e9; 
